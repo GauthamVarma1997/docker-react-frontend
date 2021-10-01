@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hey there. This does not stop Rotating! Try stopping it XD
+          My First AWS Deployment XD
         </p>
         <a
           className="App-link"
