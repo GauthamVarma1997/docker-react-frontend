@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hey there. This does not stop Rotating! Try stopping it XD
         </p>
         <a
           className="App-link"
